@@ -1,2 +1,4 @@
-# All the codes from Codewars which I have solved
-## author Jaffar
+## All the codes from Codewars which I have solved
+### author Jaffar
+
+[Home Page](https://github.com/JeffShah)
